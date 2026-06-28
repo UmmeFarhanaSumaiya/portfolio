@@ -55,7 +55,7 @@ export default function Hero() {
                 Get in Touch
               </a>
               <a
-                href="/resume.pdf"
+                href="/Umme_Farhana_Sumaiya_Resume.pdf"
                 className="px-6 py-3 border border-dark-border hover:border-primary text-white rounded-xl font-medium transition-all duration-300 flex items-center gap-2 hover:bg-primary/10"
               >
                 <FiDownload /> Download CV
