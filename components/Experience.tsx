@@ -21,7 +21,7 @@ export default function Experience() {
         'Designed Celery Beat scheduler polling Google Maps API every 10 minutes',
         'Engineered Dhaka-specific features: hartal days, Ramadan patterns, Friday prayer hours',
         'Processed Dhaka\'s full road network via OSMnx, enriching segments with road width and waterlogging',
-        'Built automated gap detection and interpolation pipeline, delivering 20,000+ rows of clean data',
+        'Built automated gap detection and interpolation pipeline, delivering 5,000+ rows of clean data',
         'Built ML pipeline for Smartest Tech Deals: DBSCAN + TF-IDF clustering',
         'Developing Next.js admin dashboard with Recharts and protected routes',
       ],

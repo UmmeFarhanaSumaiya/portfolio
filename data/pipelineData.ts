@@ -46,7 +46,7 @@ export const pipelineNodes: PipelineNode[] = [
     subtitle: 'Transform',
     icon: FiSettings,
     description: 'BrainStation 23',
-    details: '20,000+ rows processed',
+    details: '5,000 rows processed',
     color: '#FFB800',
     sectionId: 'experience',
   },
